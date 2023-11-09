@@ -23,13 +23,15 @@ function About() {
 
               <div className="pt-10 max-w-[42rem] px-5">
                 <h1 className="text-left font-Mona font-bold text-white text-4xl leading-20 pb-2  ">
-                  <GoQuestion className="inline align-bottom text-4xl" /> About GeoGit
+                  <GoQuestion className="inline align-bottom text-4xl" /> About 5DEV
                 </h1>
                 <div className="  text-left font-Hublot text-gray-300 text-lg leading-20 pt-4 pb-4 ">
-                  GeoGit is a tool designed to provide insights into the software developer community around the world. It allows users to rank the top software developers based on
-                  location, offering both a global perspective and a more local viewpoint.{" "}
+                  5DEV is a tool designed to offer insights into the global software developer community. It enables users to rank top software developers contributions to Web5
+                  based on their location, providing both a worldwide perspective and a more localized view.{" "}
                   <p className="text-left font-Hublot text-gray-300 text-lg leading-20 pt-2">
-                    This project was mainly built to improve my knowledge of React, Tailwind and API's as well as UI/UX.
+                    This project was created to identify Developers with a heart and connect with developers in proximity, 
+                    with the belief that AI will eventually code the world. We tokenize the best developer contributions for
+                    building Web5 as a LUV NFT that any one purchase to support the contribution. LFG 
                   </p>
                 </div>
 
@@ -57,8 +59,8 @@ function About() {
             </div>
           </div>
 
-          <a href="https://github.com/sheeehy" target="_blank" rel="noopener noreferrer" className="text-white font-Hublot leading-5 tracking-wider pb-2 jack-sheehy">
-            Jack Sheehy :) <br />
+          <a href="https://github.com/blkluv" target="_blank" rel="noopener noreferrer" className="text-white font-Hublot leading-5 tracking-wider pb-2 jack-sheehy">
+            The Wizard of Hahz ❤️ <br />
             ©2023
           </a>
         </div>

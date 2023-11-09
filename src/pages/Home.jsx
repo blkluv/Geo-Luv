@@ -27,7 +27,7 @@ function Home() {
               {/*Main content / Hero section */}
               <div className="HomeContainer ">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
-                  Rank the top <span className="pr-10">software</span> <span className="pl-5">developers</span> in <TypingAnimation />
+                  Rank the top <span className="pr-10">Web5</span> <span className="pl-5">developers</span> in <TypingAnimation />
                 </h1>
 
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem ]">
@@ -50,7 +50,7 @@ function Home() {
                   </span>
                   . Also check out the
                   <a
-                    href="https://github.com/sheeehy/Geo-Git-v2"
+                    href="https://github.com/blkluv"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="transition duration-100 ease-in-out hover:text-gray-400 font-bold text-white"
@@ -81,8 +81,8 @@ function Home() {
             </div>
           </div>
 
-          <a href="https://github.com/sheeehy" target="_blank" rel="noopener noreferrer" className=" font-Hublot leading-12 tracking-wider pb-2 jack-sheehy">
-            <span className="text-gray-300 font-bold">Jack Sheehy :) </span> <br />
+          <a href="https://github.com/blkluv" target="_blank" rel="noopener noreferrer" className=" font-Hublot leading-12 tracking-wider pb-2 jack-sheehy">
+            <span className="text-gray-300 font-bold">The Wizard of Hahz ❤️ </span> <br />
             <span className="text-gray-400"> ©2023 </span>
           </a>
         </div>

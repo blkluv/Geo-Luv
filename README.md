@@ -3,14 +3,14 @@
 <img alt="Logo" src="https://raw.githubusercontent.com/sheeehy/GeoGit/main/src/assets/GeoGitIcon.png" width="100" />
 </div>
 <h1 align="center">
-  GeoGit - v2
+  5DEV - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://geogit.vercel.app/" target="_blank">GeoGit</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
+  The second iteration of <a href="https://geogit.vercel.app/" target="_blank">5DEV</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://geo-git-sheeehy.vercel.app/" target="_blank">v1</a>
+  <a href="https://5dev.luvnft.com" target="_blank">v1</a>
  
 
 
@@ -20,12 +20,12 @@
 
 <br>
 
-## 🌎 About GeoGit
+## 🌎 About 5DEV
 
-GeoGit allows users to search for top GitHub users by location. Results are then displayed with their respective GitHub statistics.
+5DEV allows users to search for top GitHub users by location. Results are then displayed with their respective GitHub statistics.
 Users can enter a city into the search box to view the top GitHub users from that location. Note: The displayed results are based on the location provided by the users themselves on their GitHub profiles.
 <br> <br>
-GeoGit interfaces with the GitHub API to fetch the top users for the specified location. The primary metric for ranking is the number of followers, but this may change in future iterations.
+5DEV interfaces with the GitHub API to fetch the top users for the specified location. The primary metric for ranking is the number of followers, but this may change in future iterations.
 The app displays profile details of each ranked user, such as their profile picture, username, full name, follower count, number of public repositories, and a direct link to their GitHub profile. Due to API usage restrictions, only 10 users are displayed at a time.
 
 <br>

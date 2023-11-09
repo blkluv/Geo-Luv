@@ -18,7 +18,7 @@ function terms() {
 
                 <p className="text-lg mb-4">Last updated: November 2023</p>
 
-                <p className="leading-relaxed mb-4">Please read these Terms and Conditions carefully before using the GeoGit web application operated by GeoGit.</p>
+                <p className="leading-relaxed mb-4">Please read these Terms and Conditions carefully before using the 5DEV web application operated by 5DEV.</p>
 
                 <h2 className="text-2xl mt-6 mb-2">1. Acceptance of Terms</h2>
                 <p className="leading-relaxed mb-4">
@@ -48,20 +48,20 @@ function terms() {
 
                 <h2 className="text-2xl mt-6 mb-2">5. Intellectual Property</h2>
                 <p className="leading-relaxed mb-4">
-                  All content, features, and functionality of the Service are and will remain the exclusive property of GeoGit and its licensors. The Service is protected by
+                  All content, features, and functionality of the Service are and will remain the exclusive property of 5DEV and its licensors. The Service is protected by
                   copyright, trademark, and other laws of both the Ireland and foreign countries.
                 </p>
 
                 <h2 className="text-2xl mt-6 mb-2">6. Limitation of Liability</h2>
                 <p className="leading-relaxed mb-4">
-                  In no event shall GeoGit, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential
+                  In no event shall 5DEV, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential
                   or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of
                   or inability to access or use the Service; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein.
                 </p>
 
                 <h2 className="text-2xl mt-6 mb-2">7. Governing Law</h2>
                 <p className="leading-relaxed mb-4">
-                  These Terms shall be governed and construed in accordance with the laws of the Republic of Ireland, without regard to its conflict of law provisions.
+                  These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.
                 </p>
               </div>
             </div>
