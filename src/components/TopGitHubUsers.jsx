@@ -213,4 +213,105 @@ export default function TopGitHubUsers({ city, isAuthenticated }) {
                           )}
                           <div>
                             <strong>Username:</strong>{" "}
-                           
+                            <span>{user.login}</span>
+                          </div>
+                          <div>
+                            <strong>Bio:</strong>{" "}
+                            <span>{user.bio || "Not available"}</span>
+                          </div>
+                          <br></br>
+
+                          <div>
+                            <strong>Followers:</strong>{" "}
+                            <span>{user.followers}</span>
+                          </div>
+
+                          <div>
+                            <strong>Public Repositories:</strong>{" "}
+                            <span>{user.public_repos}</span>
+                          </div>
+                          <div>
+                            <strong>Public Commits:</strong>{" "}
+                            <span>{user.publicCommits}</span>
+                          </div>
+                          <div>
+                            <strong>Location:</strong>{" "}
+                            <span>{user.location || "Not available"}</span>
+                          </div>
+                          <div>
+                            <strong>Company:</strong>{" "}
+                            <span>{user.company || "Not available"}</span>
+                          </div>
+                          <div>
+                            <br></br>
+                            <strong>Personal Site:</strong>{" "}
+                            <span>{user.blog || "Not available"}</span>
+                          </div>
+
+                          <div>
+                            <strong>Email:</strong>{" "}
+                            <span>{user.email || "Not available"}</span>
+                          </div>
+                          <div>
+                            <strong>Twitter:</strong>{" "}
+                            <span>
+                              {user.twitter_username || "Not available"}
+                            </span>
+                          </div>
+                          <div>
+                            <strong>GitHub Profile:</strong>
+                            <a
+                              href={`https://github.com/${user.login}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-blue-500 hover:underline"
+                            >
+                              Visit Profile
+                            </a>
+                          </div>
+                          {/* Any other user information you wish to include can be added here */}
+                        </div>
+                      </DialogContent>
+                    </Dialog>
+
+                    {user.login && (
+                      <span className="font-Mona md:whitespace-nowrap md:overflow-hidden md:overflow-ellipsis md:max-w-[6rem] text-gray-300 pl-2">
+                        {user.login}
+                      </span>
+                    )}
+                  </div>
+                  <div className="flex items-center gap-4 md:gap-2">
+                    <div className="flex items-center gap-2 min-w-[3rem]">
+                      <GoPeople /> {user.followers}
+                    </div>
+                    <div className="flex items-center gap-2 min-w-[3rem]">
+                      <GoGitPullRequest /> {user.publicCommits}
+                    </div>
+                    <div className="flex items-center gap-2 min-w-[3rem]">
+                      <GoRepo /> {user.reposCount}
+                    </div>
+                  </div>
+                </>
+              ) : (
+                <div className="flex items-center">
+                  <div className="w-12 h-12" />
+                </div>
+              )}
+            </li>
+          ))
+        )}
+      </ul>
+      {!dataLoaded ? (
+        <div className="text-center width-1rem"></div>
+      ) : (
+        city &&
+        users.length > 0 &&
+        page < 10 && (
+          <button onClick={loadMoreUsers} className="font-mono select-none show-more-button mx-auto block">
+            Show More
+          </button>
+        )
+      )}
+    </div>
+  );
+}
