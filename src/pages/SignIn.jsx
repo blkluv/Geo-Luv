@@ -65,40 +65,40 @@ export default function SignIn({ setIsAuthenticated }) {
   return (
     <>
       <main className="bg-thegray home-no-scroll fade-in1">
-        <div className="min-h-screen flex items-center justify-center relative ">
+        <div className="relative flex items-center justify-center min-h-screen ">
           {/*Background behind other elements */}
           <div className="absolute top-[24rem]  w-[45rem] h-[45rem] bg-blue-300 rounded-full filter blur-5xl opacity-50 animate-blob animation-delay-1"></div>
           <div className="absolute top-[24rem]  w-[30rem] h-[30rem] bg-blue-400 rounded-full filter blur-5xl opacity-30 animate-blob animation-delay-1"></div>
 
           <div className="relative z-10 pt-0 pb-40">
-            <div className="px-9 py-8 signInCard">
+            <div className="py-8 px-9 signInCard">
               <div className="flex items-center flex-nowrap"></div>
 
               {isAuthenticated && userData ? (
                 <>
-                  <h1 className="font-Mona font-bold text-4xl ">
+                  <h1 className="text-4xl font-bold font-Mona ">
                     <span className="text-white">Welcome</span>, {userData.login}!
                   </h1>
-                  <h2 className="text-center pt-3 pb-4 text-gray-300"> You have successfully signed in.</h2>
-                  <div className="flex justify-center items-center">
-                    <Link to="/search" className="get-started-button font-mono select-none ">
+                  <h2 className="pt-3 pb-4 text-center text-gray-300"> You have successfully signed in.</h2>
+                  <div className="flex items-center justify-center">
+                    <Link to="/search" className="font-mono select-none get-started-button ">
                       <IoSparklesSharp className="inline align-text-top " /> Get Started
                     </Link>
                   </div>
                 </>
               ) : (
                 <>
-                  <h1 className="font-Mona font-bold text-4xl ">GeoGit</h1>
+                  <h1 className="text-4xl font-bold font-Mona ">WEEDW3W</h1>
 
-                  <h2 className="font-Mona font-bold pt-6 text-xl">Sign in</h2>
-                  <h3 className="font-Mona pt-1 text-gray-300 text-lg pb-5">
-                    to continue to <span className="text-gray-300 font-bold">GeoGit</span>
+                  <h2 className="pt-6 text-xl font-bold font-Mona">Sign in</h2>
+                  <h3 className="pt-1 pb-5 text-lg text-gray-300 font-Mona">
+                    to continue to <span className="font-bold text-gray-300">WEEDW3W</span>
                   </h3>
                   <button className="signInButton text-md flex items-center py-2.5 whitespace-nowrap" onClick={!isAuthenticated ? loginWithGithub : null}>
                     <AiFillGithub className="text-2xl" />
                     <span className="ml-3 ">Sign in With GitHub</span>
                   </button>
-                  <h3 className="flex items-center text-md  justify-center text-gray-400 pt-2">
+                  <h3 className="flex items-center justify-center pt-2 text-gray-400 text-md">
                     <Link to="/Terms">
                       By signing in you agree to <b>terms of service</b>.
                     </Link>
