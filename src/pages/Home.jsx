@@ -26,16 +26,15 @@ function Home() {
               {/*Main content / Hero section */}
               <div className="HomeContainer ">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
-                  We're bigger <span className="pr-10">than</span><span className="pl-5">a</span> map.
+                We map 🌱 with 3 Words ///keep.it.simple
                 </h1>
-
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem ]">
-                  We use AI, SMS, Blockchain and AR tech to create fun <span className="custom-text-shadow">🅰️DS.</span>.
+                We map 🌱 with 3 Words <span className="custom-text-shadow">///keep.it.simple</span>.
                 </h1>
 
                 {/* Display on larger screens */}
                 <div className=" pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                  Livestream shopping gamified with @ZAZAW3W customer content. We create 🅰️DS for{" "}
+                  Livestream 🌱 shopping gamified with @ZAZAW3W customer content. We create 🅰️DS for{" "}
                   <span className="text-white">
                     <GoPeople className="inline align-text-bottom" /> merch
                   </span>
