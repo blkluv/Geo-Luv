@@ -72,7 +72,7 @@ function App() {
         <div className="bg-[#DA552F] h-14 flex items-center justify-center select-none relative ">
           {" "}
           <a href="https://www.producthunt.com/posts/geogit" target="_blank" rel="noopener noreferrer" className="hidden md:block">
-            <h1 className="text-white  tracking-wide">
+            <h1 className="tracking-wide text-white">
               😺 GeoGit is featured on <span className="font-bold text-white">Product Hunt</span> today - Check it out :)
             </h1>
           </a>
@@ -85,32 +85,32 @@ function App() {
               height="54"
             />
           </a>
-          <button className="absolute right-6 top-2 text-white text-2xl font-bold" onClick={() => setShowBanner(false)}>
+          <button className="absolute text-2xl font-bold text-white right-6 top-2" onClick={() => setShowBanner(false)}>
             ×
           </button>
         </div>
       )}
       */}
 
-      <header className="bg-transparent py-1">
-        <div className="container mx-auto pt-4 px-4 sm:px-12 flex flex-col sm:flex-row justify-between items-center z-50">
-          <Link to="/" className="flex items-center space-x-3 mb-4 sm:mb-0 select-none">
-            <span className="hidden sm:inline text-white font-bold text-2xl select-none">GeoGit</span>
+      <header className="py-1 bg-transparent">
+        <div className="container z-50 flex flex-col items-center justify-between px-4 pt-4 mx-auto sm:px-12 sm:flex-row">
+          <Link to="https://weedw3w.com" className="flex items-center mb-4 space-x-3 select-none sm:mb-0">
+            <span className="hidden text-2xl font-bold text-white select-none sm:inline">🌱WEED📍W3W</span>
           </Link>
           <nav className="flex items-center font-Hublot">
-            <ul className="flex space-x-2 sm:space-x-4 text-gray-300 font-bold select-none">
+            <ul className="flex space-x-2 font-bold text-gray-300 select-none sm:space-x-4">
               <li>
-                <Link to="/" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="https://weedw3w.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
                   Home
                 </Link>
               </li>
               <li>
-                <Link to="/Search" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/Search" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
                   Search
                 </Link>
               </li>
               <li>
-                <Link to="/About" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/About" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
                   About
                 </Link>
               </li>
@@ -123,7 +123,7 @@ function App() {
                   <Dialog>
                     <DropdownMenuContent>
                       <DropdownMenuLabel className="font-bold font-Mona max-w-[12rem] whitespace-nowrap  text-lg ">{userData.name}</DropdownMenuLabel>
-                      <DropdownMenuLabel className="font-Hublot custom-width pb-1 text-gray-300 text-sm">{userData.location}</DropdownMenuLabel>{" "}
+                      <DropdownMenuLabel className="pb-1 text-sm text-gray-300 font-Hublot custom-width">{userData.location}</DropdownMenuLabel>{" "}
                       <DropdownMenuSeparator className="bg-neutral-600" />
                       <DialogTrigger asChild>
                         <DropdownMenuItem className="font-Hublot text-md">
@@ -139,27 +139,27 @@ function App() {
                     </DropdownMenuContent>
                     <DialogContent>
                       <DialogHeader>
-                        <DialogTitle className="text-white text-3xl font-bold">Account</DialogTitle>
+                        <DialogTitle className="text-3xl font-bold text-white">Account</DialogTitle>
                         <DialogDescription className="text-gray-400 text-md">Manage your account information</DialogDescription>
                       </DialogHeader>
-                      <DialogDescription className="text-white text-lg pt-2 ">Profile</DialogDescription>
+                      <DialogDescription className="pt-2 text-lg text-white ">Profile</DialogDescription>
                       <DialogDescription className="flex items-center space-x-2">
-                        <img src={userData.avatar_url} alt="User Avatar" className="w-14 h-14 rounded-full" />
+                        <img src={userData.avatar_url} alt="User Avatar" className="rounded-full w-14 h-14" />
                         <DialogDescription className="pl-2 text-md">
-                          <DialogDescription className="text-white font-bold">{userData.name}</DialogDescription>
+                          <DialogDescription className="font-bold text-white">{userData.name}</DialogDescription>
                           <DialogDescription className="text-gray-400">{userData.login}</DialogDescription>
                         </DialogDescription>
                       </DialogDescription>
                       <Separator />
-                      <DialogHeader className="text-white text-lg mb-0">Location</DialogHeader>
+                      <DialogHeader className="mb-0 text-lg text-white">Location</DialogHeader>
                       <DialogDescription className="text-gray-400">{userData.location}</DialogDescription>
                       <Separator />
 
-                      <DialogHeader className="text-white text-lg mb-0">Email Addresses</DialogHeader>
+                      <DialogHeader className="mb-0 text-lg text-white">Email Addresses</DialogHeader>
                       <DialogDescription className="text-gray-400">{userData.email}</DialogDescription>
                       <Separator />
 
-                      <DialogHeader className="text-white text-lg mb-0">Connected Accounts</DialogHeader>
+                      <DialogHeader className="mb-0 text-lg text-white">Connected Accounts</DialogHeader>
                       <DialogDescription className="flex items-center text-gray-400">
                         <BsGithub className="mr-3 text-lg" />
                         <span>{userData.login}</span>
@@ -167,14 +167,14 @@ function App() {
 
                       <Separator />
 
-                      <DialogDescription className="flex justify-between items-center text-gray-300 w-full">
+                      <DialogDescription className="flex items-center justify-between w-full text-gray-300">
                         <DialogDescription className="pb-2">
                           <DialogDescription className="text-white text-[1.1rem]">Delete your account</DialogDescription>
                           <DialogDescription className="text-gray-400">Delete your account and all its associated data.</DialogDescription>
                         </DialogDescription>
                         <button
                           onClick={handleLogout}
-                          className="text-red-500 border border-red-500  px-3 py-1 transition duration-200 ease-in-out hover:bg-red-500 hover:text-white"
+                          className="px-3 py-1 text-red-500 transition duration-200 ease-in-out border border-red-500 hover:bg-red-500 hover:text-white"
                         >
                           Delete Account
                         </button>
@@ -183,7 +183,7 @@ function App() {
                   </Dialog>
                 </DropdownMenu>
               ) : (
-                <Link to="/SignIn" className="px-2 sm:px-4 py-2 block font-bold text-white login-button">
+                <Link to="/SignIn" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
                   Sign In
                 </Link>
               )}

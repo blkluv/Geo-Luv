@@ -12,19 +12,39 @@ function About() {
             <div className="relative z-10 pt-5 pb-20">
               <div className="pt-10 max-w-[42rem] px-5">
                 <h1 className="pb-2 text-4xl font-bold text-left text-white font-Mona leading-20 ">
+                <h1>
                   <GoQuestion className="inline text-4xl align-bottom" /> About 🌱WEED📍W3W
                 </h1>
-                <div className="pt-4 pb-4 text-lg text-left text-gray-300  font-Hublot leading-20">
-                    High-tech meets high times WEEDW3W is the first blockchain-powered cannabis ad agency, connecting brands, dispensaries, and influencers with a Web5-native audience.
+                <div className="pt-4 pb-4 text-lg text-left text-gray-300 font-Hublot leading-20">
+                <p>
+                  High-tech meets high times with WEEDW3W, the first blockchain-powered cannabis ad agency. We empower brands, dispensaries, and influencers to create engaging ZADS (ZA + AD) or social media aliases, such as @ZAZAW3W.
+                 </p>
+                 <p className="pt-2 text-lg text-left text-gray-300 font-Hublot leading-20">
+                  WEEDW3W has partnered with What3Words, which has mapped the world into unique 4m x 4m locations, each identified by a 3-word address, known as W3W or "ZADDY."
+                 </p>
+         <p className="pt-2 text-lg text-left text-gray-300 font-Hublot leading-20">
+            We connect physical dispensary merchandise to a corresponding 3-word "ZADDY," which serves as digital merchandise. Holding this digital "ZADDY" unlocks access to the associated physical item.
+         </p>
+  <p className="pt-2 text-lg text-left text-gray-300 font-Hublot leading-20">
+    Support your favorite local dispensary in a gamified way and earn memecoin loyalty reward tokens that can be easily redeemed.
+  </p>
+</div>
+                  <GoQuestion className="inline text-4xl align-bottom" /> About 🌱WEED📍W3W
+                </h1>
+                <div className="pt-4 pb-4 text-lg text-left text-gray-300 font-Hublot leading-20">
+                    High-tech meets high times WEEDW3W is the first blockchain-powered cannabis ad agency, empowering brands, dispensaries, and influencers to create fun ZADS (ZA + AD) or social media alias is @ZAZAW3W.
                   <p className="pt-2 text-lg text-left text-gray-300 font-Hublot leading-20">
-                    WEEDW3W converts customers to dispensary content creators with fun marketing campaigns using ADS customers can securely sell and stake to earn from supporting
-                    their favorite local dispensary in a gamified way to earn memecoin loyalty rewards tokens that can be redeemed easily.
+                    WEEDW3W partnered with What3Words that mapped the world in 1-of-1 3-Word 4M x 4M locations we call W3W AKA ZADDY.
+
+                    We map Dispensary physical merch to a 3-Word ZADDY which is digital merch that unlocks the pair physical merch when the holder 
+                    
+                    Support your favorite local dispensary in a gamified way to earn memecoin loyalty rewards tokens that can be redeemed easily.
                   </p>
                 </div>
                 <h1 className="pt-10 pb-2 text-4xl font-bold text-left text-white font-Mona leading-20 ">
                   <BsGear className="inline align-bottom " /> HOW 🌱 🅰️DS WORK
                 </h1>
-                <div className="pt-4 pb-4 text-lg text-left text-gray-300  font-Hublot leading-20">
+                <div className="pt-4 pb-4 text-lg text-left text-gray-300 font-Hublot leading-20">
                   <h2 className="pb-2 text-xl font-bold text-white">1️⃣ Go See the Wizard of Hahz</h2>
                   Kick things off by booking a consultation with the founder and creator of WEEDW3W—available for a limited time only until we onboard the first 💯 dispensaries.
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">2️⃣ CT🅰️</h2>
@@ -35,7 +55,7 @@ function About() {
                 <h1 className="pt-10 pb-2 text-4xl font-bold text-left text-white font-Mona leading-20 ">
                   <GoGraph className="inline align-bottom" /> Benefits for Developers
                 </h1>
-                <div className="pt-4 pb-4 text-lg text-left text-gray-300  font-Hublot leading-20">
+                <div className="pt-4 pb-4 text-lg text-left text-gray-300 font-Hublot leading-20">
                   <h2 className="pb-1 text-xl font-bold text-white">• Networking Opportunities</h2>
                   Connect with peers locally and globally. This can lead to collaborative projects, mentorship opportunities, and potentially career advancements.{" "}
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">• Increased Visibility</h2>
@@ -50,7 +70,7 @@ function About() {
                 <h1 className="pt-10 pb-2 text-4xl font-bold text-left text-white font-Mona leading-20 ">
                   <GoGitPullRequestClosed className="inline align-bottom" /> What Makes GeoGit Different?
                 </h1>
-                <div className="pt-4 pb-4 text-lg text-left text-gray-300  font-Hublot leading-20">
+                <div className="pt-4 pb-4 text-lg text-left text-gray-300 font-Hublot leading-20">
                   <h2 className="pb-1 text-xl font-bold text-white">• Scope & Focus</h2>
                   Unlike LinkedIn, GitHub or Crunchbase, which generally focus on the big picture, GeoGit can emphasize local software development communities, offering a unique
                   lens into regional talent and trends. <h2 className="pt-4 pb-1 text-xl font-bold text-white">• Objective Metrics</h2>
