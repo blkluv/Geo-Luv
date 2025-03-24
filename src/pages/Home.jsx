@@ -35,8 +35,8 @@ function Home() {
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
                   WEEDW3W turns dispensary livestream flash sales into treasure hunts! 🛍️ Each product becomes a collectible Z🅰️DDY
-                  pinned to a 3-word location 📍///keep.it.simple - hunt them on 🗺️ ZAP (our live map) and browse daily drops on
-                  🌴 ZATREE (ZA Linktree for deals). Claim any Z🅰️DDY to unlock 🆓 merch and trade with fellow collectors near you.
+                  pinned to a 3-word location 📍///keep.it.simple - hunt them on 🗺️ ZAP (our live map) and 🌴 ZATREE (ZA Linktree for deals).
+                  Claim a Z🅰️DDY to unlock 🆓 merch and trade with fellow collectors near you.
                 </div>
 
                 {/* Use <a> tag for external links */}
