@@ -28,7 +28,7 @@ function Home() {
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
                   3️⃣-WORD 🌱 WEED MAPS
                   <span className="custom-text-shadow">
-                    🌱📍<TypingAnimation text="///KEEP.IT.SIMPLE" />
+                    📍<TypingAnimation text="///KEEP.IT.SIMPLE" />
                   </span>
                 </h1>
 
