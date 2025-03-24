@@ -1,5 +1,7 @@
 import "../App.css";
-import { BsGear, GoGitPullRequestClosed } from "react-icons/bs";
+import { BsGear } from "react-icons/bs";  
+import { GoGitPullRequestClosed } from "react-icons/go";  
+
 
 function About() {
   return (
