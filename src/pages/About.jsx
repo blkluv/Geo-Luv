@@ -40,11 +40,11 @@ function About() {
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     2️⃣ Drop D🅰️TE
                   </h2>
-                  We announce the CT🅰️ (Call to Action) date so customers can prepare to purchase Z🅰️DDYs in crypto.
+                  We announce the CT🅰️ (Call to Action) date so customers can prepare to purchase the limited about of Z🅰️DDYs.
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     3️⃣ Foot Traffic
                   </h2>
-                  Customers can redeem or verify Z🅰️DDY ownership in-store by showing the digital merchandise to a merchant or transferring it to the dispensary's Phantom Wallet.
+                  Customers can redeem or verify Z🅰️DDY ownership in-store by showing it in their Phantom Wallet to a merchant or transferring it to the dispensary's ✅ verified Phantom Wallet.
                 </div>
 
                 <h1 className="pt-10 pb-2 text-4xl font-bold text-left text-white font-Mona leading-20">
