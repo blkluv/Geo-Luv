@@ -53,12 +53,12 @@ function Home() {
 
                 {/* Use <a> tag for external links */}
                 <a
-                  href="https://tiktok.com/zazaw3w"
+                  href="/about"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-mono select-none get-started-button fade-in3"
                 >
-                  <IoSparklesSharp className="inline align-text-top" /> Follow @ZAZAW3W TikTok
+                  <IoSparklesSharp className="inline align-text-top" /> Learn More
                 </a>
               </div>
             </div>
