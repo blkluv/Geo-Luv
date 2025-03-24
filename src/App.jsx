@@ -183,8 +183,8 @@ function App() {
                   </Dialog>
                 </DropdownMenu>
               ) : (
-                <Link to="/SignIn" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
-                  Sign In
+                <Link to="https://zatree.weedw3w.com" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
+                  🌴 ZATREE
                 </Link>
               )}
             </ul>
