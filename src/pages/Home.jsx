@@ -26,35 +26,25 @@ function Home() {
               {/*Main content / Hero section */}
               <div className="HomeContainer ">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
-                We map 🌱 with 3 Words ///keep.it.simple
+                3️⃣-WORD WEED MAPS
                 </h1>
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem ]">
-                We map 🌱 with 3 Words <span className="custom-text-shadow">///keep.it.simple</span>.
+                Z🅰️DDY(ZA W3W AD)<span className="custom-text-shadow">📍///KEEP.IT.SIMPLE</span>.
                 </h1>
 
                 {/* Display on larger screens */}
                 <div className=" pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                  Livestream 🌱 shopping gamified with @ZAZAW3W customer content. We create 🅰️DS for{" "}
-                  <span className="text-white">
-                    <GoPeople className="inline align-text-bottom" /> merch
-                  </span>
-                  ,{" "}
-                  <span className="text-white">
-                    <GoStar className="inline align-text-bottom" /> loyalty
-                  </span>
-                  ,{" "}
-                  <span className="text-white">
-                    <GoGitPullRequest className="inline align-text-bottom" /> challenges
-                  </span>{" "}
-                  and{" "}
-                  <span className="text-white">
-                    <GoRepo className="inline align-text-bottom" /> education.
+                  WEEDW3W is a fun livestream d-commerce shopping platform where we map and advertise live dispensary digital merch flash sales,
+                  tethered to a physical W3W (What3Words) dispensary 4m x 4m block location. Customers can buy, resell, and show proof of owning
+                  a Z🅰️DDY to unlock free physical merch in-store.
                   </span>
                 </div>
 
                 <Link to="https://tiktok.com/zazaw3w" className="font-mono select-none get-started-button fade-in3">
                   <IoSparklesSharp className="inline align-text-top" /> Follow @ZAZAW3W TikTok
                 </Link>
+              <div className=" pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
+                  📲 Tok 🗳️ Vote 🌴 Tree 🗺️ AI Map 💬 Social 🛍️ Digital Merch  🆓 Directory 🍃 Strains 🪴 Products ✅ Name Game
               </div>
             </div>
           </div>
