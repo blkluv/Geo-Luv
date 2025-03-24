@@ -101,17 +101,17 @@ function App() {
             <ul className="flex space-x-2 font-bold text-gray-300 select-none sm:space-x-4">
               <li>
                 <Link to="https://weedw3w.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
-                  Home
+                 🛖 HOME
                 </Link>
               </li>
               <li>
-                <Link to="/Search" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
-                  Search
+                <Link to="https://zatv.weedw3w.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
+                 🤳 ZATV
                 </Link>
               </li>
               <li>
                 <Link to="/About" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
-                  About
+                 🅰️BOUT
                 </Link>
               </li>
 
