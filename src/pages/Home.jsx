@@ -59,7 +59,7 @@ function Home() {
             </div>
           </div>
 
-          <a href="https://remise.ie" target="_blank" rel="noopener noreferrer" className="pb-2 tracking-wider font-Hublot leading-12 jack-sheehy">
+          <a href="https://weedw3w.com" target="_blank" rel="noopener noreferrer" className="pb-2 tracking-wider font-Hublot leading-12 jack-sheehy">
             <span className="font-bold text-gray-300">WEEDW3W </span> <br />
             <span className="text-gray-400"> ©2025 </span>
           </a>
