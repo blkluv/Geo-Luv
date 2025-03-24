@@ -8,7 +8,7 @@ const TypingAnimation = () => {
   const [isPaused, setIsPaused] = useState(false);
   const [isCursorVisible, setIsCursorVisible] = useState(true);
 
-  const cities = ["Atlantic City", "Maine", "Portland"];
+  const cities = ["Atlantic City", "Portland, ME", "Atlanta"];
 
   useEffect(() => {
     const cursorInterval = setInterval(() => {
