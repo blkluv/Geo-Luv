@@ -1,7 +1,13 @@
 import "../App.css";
+<<<<<<< HEAD
 import { BsGear } from "react-icons/bs";
 import { GoGitPullRequestClosed } from "react-icons/go";
 import { IoSparklesSharp } from "react-icons/io5"; // Correct import for sparkles icon
+=======
+import { BsGear } from "react-icons/bs";  
+import { GoGitPullRequestClosed } from "react-icons/go";  
+
+>>>>>>> 04a4855f195f60b661f75f050f1b227a9f42b6ce
 
 function About() {
   return (
