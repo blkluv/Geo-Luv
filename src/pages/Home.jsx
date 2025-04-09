@@ -34,9 +34,8 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                  Tap into to a DISPO.SOCIAL livestream shopping Dvent show at a Dispensary near you to buy or win airdropped D-commerce you can re-sell.
-                  Find sales near you pinned to a 3-word What3Words App 📍///keep.it.simple Z🅰️DDY - (our live map) and browse daily drops on
-                  🌴 ZATREE (your Linktree for deals).
+                🅰️ <a href="https://a.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">SOCIAL</a> 🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZA SALE MAP</a><br/>
+                🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE</a> 🤳<a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV</a>
                 </div>
 
                 {/* Use <a> tag for external links */}
@@ -53,7 +52,7 @@ function Home() {
           </div>
 
           <a
-            href="https://weedw3w.com"
+            href="https://dispo.social"
             target="_blank"
             rel="noopener noreferrer"
             className="pb-2 tracking-wider font-Hublot leading-12 jack-sheehy"
