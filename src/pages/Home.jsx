@@ -28,12 +28,13 @@ function Home() {
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
                  🎦 LIVESTREAM DVENTS
                   <span className="custom-text-shadow">
-                    📍<TypingAnimation text="///KEEP.IT.SIMPLE" />
+                    <TypingAnimation text="DISPO.SOCIAL" />
                   </span>
                 </h1>
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
+                We throw live dispensary "dvents" (think d-commerce, but cooler) where snagging some fire digital merch is your golden ticket to exclusive online AND irl social gatherings 📍///KEEP.IT.SIMPLE.
                 🅰️ <a href="https://a.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">SOCIAL</a> 🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZA SALE MAP</a><br/>
                 🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE</a> 🤳<a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV</a>
                 </div>
