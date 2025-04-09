@@ -56,7 +56,7 @@ const TypingAnimation = () => {
       style={{
         minWidth: "19rem",
         display: "inline-block",
-        textAlign: "left",
+        textAlign: "center",
         color: "white",
       }}
     >

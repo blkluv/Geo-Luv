@@ -36,10 +36,10 @@ function Home() {
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
                 We throw livestream dispensary "dvents" (think d-commerce, but cooler) where snagging some fire dmerch (digital merch) is your golden ticket to exclusive online and IRL social vibes 📍///KEEP.IT.SIMPLE.
                 <br></br>
-                🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a>  🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a>
-                🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a>  🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a>
+                🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a>  🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a> 
+                🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a>  🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a> 
                 <br></br>
-                🔮 <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a> 🕹️ <a href="https://name.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">NAME.</a>
+                🔮 <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a>  🕹️ <a href="https://name.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">NAME.</a> 
                 </div>
 
                 {/* Use <a> tag for external links */}
