@@ -23,10 +23,10 @@ function Home() {
               {/* Main content / Hero section */}
               <div className="HomeContainer">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
-                 🎦 LIVESTREAM DVENTS
+                 🎦 LIVESTREAM DVENT
                 </h1>
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
-                 🎦 LIVESTREAM DVENTS
+                 🎦 LIVESTREAM DVENT
                   <span className="custom-text-shadow">
                     <TypingAnimation text="DISPO.SOCIAL" />
                   </span>
@@ -34,10 +34,10 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                We throw livestream dispensary "dvents" (think d-commerce, but cooler) where snagging some fire digital merch is your golden ticket to exclusive online AND irl social gatherings 📍///KEEP.IT.SIMPLE.
+                We throw livestream dispensary "dvents" (think d-commerce, but cooler) where snagging some fire dmerch (digital merch) is your golden ticket to exclusive online and IRL social vibes 📍///KEEP.IT.SIMPLE.
                 <br></br>
-                🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a> 🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a>
-                🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a> 🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a>
+                🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a>  🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a>
+                🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a>  🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a>
                 🗳️ <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a>
                 </div>
 
