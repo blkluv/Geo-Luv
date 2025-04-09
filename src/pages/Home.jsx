@@ -38,7 +38,7 @@ function Home() {
                 <br></br>
                 🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a>  🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a>
                 🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a>  🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a>
-                🗳️ <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a>
+                🔮 <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a> 🕹️ <a href="https://name.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">NAME.</a>
                 </div>
 
                 {/* Use <a> tag for external links */}
