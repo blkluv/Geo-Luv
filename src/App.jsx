@@ -105,7 +105,7 @@ function App() {
                 </Link>
               </li>
               <li>
-                <Link to="https://zatv.weedw3w.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
+                <Link to="https://zatv.dispo.social" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
                  🤳 ZATV
                 </Link>
               </li>
@@ -183,7 +183,7 @@ function App() {
                   </Dialog>
                 </DropdownMenu>
               ) : (
-                <Link to="https://zatree.weedw3w.com" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
+                <Link to="https://zatree.dispo.social" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
                   🌴 ZATREE
                 </Link>
               )}
