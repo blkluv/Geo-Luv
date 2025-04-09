@@ -88,11 +88,11 @@ export default function SignIn({ setIsAuthenticated }) {
                 </>
               ) : (
                 <>
-                  <h1 className="text-4xl font-bold font-Mona ">WEEDW3W</h1>
+                  <h1 className="text-4xl font-bold font-Mona ">DISPO.SOCIAL</h1>
 
                   <h2 className="pt-6 text-xl font-bold font-Mona">Sign in</h2>
                   <h3 className="pt-1 pb-5 text-lg text-gray-300 font-Mona">
-                    to continue to <span className="font-bold text-gray-300">WEEDW3W</span>
+                    to continue to <span className="font-bold text-gray-300">DISPO.SOCIAL</span>
                   </h3>
                   <button className="signInButton text-md flex items-center py-2.5 whitespace-nowrap" onClick={!isAuthenticated ? loginWithGithub : null}>
                     <AiFillGithub className="text-2xl" />
