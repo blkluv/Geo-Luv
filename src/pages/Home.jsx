@@ -34,9 +34,11 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                We throw live dispensary "dvents" (think d-commerce, but cooler) where snagging some fire digital merch is your golden ticket to exclusive online AND irl social gatherings 📍///KEEP.IT.SIMPLE.
-                🅰️ <a href="https://a.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">SOCIAL</a> 🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZA SALE MAP</a><br/>
-                🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE</a> 🤳<a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV</a>
+                We throw livestream dispensary "dvents" (think d-commerce, but cooler) where snagging some fire digital merch is your golden ticket to exclusive online AND irl social gatherings 📍///KEEP.IT.SIMPLE.
+                <br></br>
+                🗺️ <a href="https://zap.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAP.</a> 🌴 <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATREE.</a>
+                🤳 <a href="https://zatv.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZATV.</a> 🪴<a href="https://products.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">PRODUCTS.</a>
+                🗳️ <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a>
                 </div>
 
                 {/* Use <a> tag for external links */}
