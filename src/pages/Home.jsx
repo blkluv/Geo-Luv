@@ -41,7 +41,9 @@ function Home() {
                 <br></br>
                 🔮 <a href="https://poll.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">POLL.</a>  🕹️ <a href="https://name.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">NAME.</a> 
                 </div>
-
+                <br></br>
+                ✍️ <a href="https://blog.dispo.social" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">BLOG.</a>  🪩 <a href="https://www.spatial.io/s/DISPO-SOCIAL-67fbb1a9814a8f20fb128194" target="_blank" rel="noopener noreferrer" className="text-blue-300 underline">ZAVERSE.</a> 
+                </div>
                 {/* Use <a> tag for external links */}
                 <a
                   href="https://a.dispo.social"
