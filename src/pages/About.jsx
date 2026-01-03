@@ -15,18 +15,18 @@ function About() {
                   About ATL5D ✨
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                  <p>
-                    ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">BLKLUV.ORG</a>, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
-                  </p>
-                  <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    ATL5D is built on the ethos of empowering our Tribe with financial inclusion, and story telling cultural celebration. We believe in creating a digital space where every voice is heard, every talent is recognized, and every business has the opportunity to thrive.
-                  </p>
-                  <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    ATL5D solved the problem of unfunded creators and underserved businesses needing on average $100k to launch a digital presence online to avoid only 2% of their social media content being seen and not having the budget to run paid ads or hire a CMO to manage their digital marketing.
-                  </p>
-                  <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    ATL5D creators content and leverages their social media channels to promote our Tribe businesses, and businesses only pay for verified leads or bookings. The creator of ATL5D <a href="https://linkedin.com/in/hahzterry" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">The Wizard of Hahz</a> acts as a fractional CMO for Camp Creek Market <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> subscribers, and is available for hire to consult Atlanta businesses looking to launch their digital presence.
-                  </p>
+                <p>
+                  ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods—powered by <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">BLKLUV.ORG</a>, the cash app with lower fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
+                </p>
+                <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
+                  ATL5D is built on an ethos of empowering our Tribe through financial inclusion and cultural storytelling. We believe in creating a digital space where every voice is heard, every talent is recognized, and every business has the opportunity to thrive.
+                </p>
+                <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
+                  ATL5D solves the problem faced by unfunded creators and underserved businesses, who on average need $100k to launch a digital presence online—while still only reaching 2% of their audience through organic social media. Many lack the budget for paid ads or a CMO to manage their digital marketing.
+                </p>
+                <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
+                  ATL5D creators produce content and leverage their social channels to promote Tribe businesses, while businesses only pay for verified leads or bookings. The creator of ATL5D, <a href="https://linkedin.com/in/hahzterry" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">The Wizard of Hahz</a>, acts as a fractional CMO for Camp Creek Market <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> subscribers and is available for hire to consult with Atlanta businesses launching their digital presence.
+                </p>
                 </div>
 
                 <h1 className="pt-10 pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
