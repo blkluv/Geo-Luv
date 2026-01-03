@@ -12,81 +12,113 @@ function About() {
             <div className="relative z-10 pt-5 pb-20">
               <div className="pt-10 max-w-[42rem] px-5">
                 <h1 className="pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
-                  About DISPO.SOCIAL ✨
+                  About ATL5D ✨
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
                   <p>
-                    Yo, DISPO.SOCIAL is where it's at! We're throwing live dispensary "dvents" (think d-commerce, but cooler) where snagging some fire digital merch is your golden ticket to exclusive online AND irl (in real life, duh) social hangs with your fave dispensaries.
+                    ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer">BLKLUV.ORG</a>, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
                   </p>
                   <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    We've teamed up with the geniuses at <a href="https://what3words.com" target="_blank" rel="noopener noreferrer">What3Words</a> to map dispo merch to super specific 4m x 4m real-world spots – we call 'em ZADDYs 'cause they're kinda the key to unlocking the good stuff and make finding your fave bud way easier. 😉
+                    ATL5D is built on the ethos of empowering our Tribe with financial inclusion, and story telling cultural celebration. We believe in creating a digital space where every voice is heard, every talent is recognized, and every business has the opportunity to thrive.
                   </p>
                   <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    Imagine this: Your go-to dispensary drops a new limited-edition strain. We're gonna host a whole *vibe* of a livestream dvent about it, where you can cop it early. Peep this: each product becomes a limited-edition d-commerce NFT – your VIP pass to the IRL dispo dvent, which is basically a social sesh where you can buy, sell, trade, and hype up your fave dispo merch with other stoners. 🔥
+                    ATL5D solved the problem of unfunded creators and underserved businesses needing on average $100k to launch a digital presence online to avoid only 2% of their social media content being seen and not having the budget to run paid ads or hire a CMO to manage their digital marketing.
                   </p>
                   <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    Show some love to your local dispensaries, flex those unique 'ZADDY' NFTs, and even bag some $DISPO memecoin loyalty points – all inside our lit livestream dvents that make dispensary shopping a whole GAME with all the cool tech and our big brains. 😎
+                    ATL5D creators content and leverages their social media channels to promote our Tribe businesses, and businesses only pay for verified leads or bookings. The creator of ATL5D <a href="https://linkedin.com/in/hahzterry" target="_blank" rel="noopener noreferrer">The Wizard of Hahz</a> acts as a fractional CMO for Camp Creek Market <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> subscribers, and is available for hire to consult Atlanta businesses looking to launch their digital presence.
                   </p>
                 </div>
 
                 <h1 className="pt-10 pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
-                  <BsGear className="inline align-bottom" /> How DISPO.SOCIAL Slaps ⚙️
+                  <BsGear className="inline align-bottom" /> How ATL5D Slaps ⚙️
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                <h2 className="pb-2 text-xl font-bold text-white">
-                 1️⃣ Hit Up the Hahz Guy 🧙‍♂️
-                </h2>
-                 Wanna get in on the ground floor? Book a dvent brainstorm sesh with the DISPO.SOCIAL founder himself! This is a limited-time thing, only 'til we get our first 100 dispensaries onboarded. Slide into <a href="https://t.me/hahznft" target="_blank" rel="noopener noreferrer">@HAHZNFT</a>'s DMs on Telegram.
-                <h2 className="pt-4 pb-2 text-xl font-bold text-white">
-                 2️⃣ Peep the Drop Date 👀
-                </h2>
-                 We'll announce the official CTA (Call to Action) date – aka, when you gotta be ready to cop that limited-edition dmerch to unlock the social dvent. Keep your eyes peeled! 😉
-                <h2 className="pt-4 pb-2 text-xl font-bold text-white">
-                 3️⃣ ZADDY Unlock! 🔑
-                 </h2>
-                 The livestream dvent goes live at the same time as the dmerch drop. If you pre-gamed and got your merch, just flash your NFT in your crypto wallet to the budtender in-store to redeem it. Easy peasy! 🍃
+                  <h2 className="pb-2 text-xl font-bold text-white">
+                    5️⃣DTOK
+                  </h2>
+                  <p>
+                    Is the new TikTok-like social media app, the difference is that <a href="https://5dtok.com" target="_blank" rel="noopener noreferrer">5DTOK</a> has no algorithms limiting your content visibility like TikTok, IG etc. or AI policing your content. 💸 Fans can tip content creators directly with Zaps in the form of Bitcoin sats.
+                  </p>
+                  
+                  <h2 className="pt-4 pb-2 text-xl font-bold text-white">
+                    🅰️TL5D 🛍️SHOP
+                  </h2>
+                  <p>
+                    Is the TikTok-like <a href="https://shop.atl5d.com" target="_blank" rel="noopener noreferrer">Shop</a> for Atlanta that pays in Bitcoin Sats. 💸 $0 middleman fees, $0 monthly fees and promote your products in the Camp Creek Market <a href="https://discord.gg/p6xd9CErYy" target="_blank" rel="noopener noreferrer"> Discord</a> for free.
+                  </p>
+                  
+                  <h2 className="pt-4 pb-2 text-xl font-bold text-white">
+                    🅰️TL5D 🍑TREE
+                  </h2>
+                  <p>
+                    Is the Linktree-like <a href="https://tree.atl5d.com" target="_blank" rel="noopener noreferrer">Tree</a> for boosting Atlanta creators and businesses bookings and sales with ZERO upfront fees. 💸 Turn your service booking to a livestream reality show in the #livestream-booking <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer"> Discord</a> and generate new business from listeners.
+                  </p>
+                  
+                  <h2 className="pt-4 pb-2 text-xl font-bold text-white">
+                    🅰️TL5D ⚡️ZSTREAM
+                  </h2>
+                  <p>
+                    Is the Twitch-like <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer">Zstream</a> for Atlanta creators and businesses to monetize their livestreams with Bitcoin Sats tips. 💸 No middleman fees, no monthly fees, and promote your livestream in <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer"> Discord</a>. Host a Zstream promoting an Atlanta business. 
+                  </p>
                 </div>
+                
                 <h1 className="pt-10 pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
-                  📈 DISPO.SOCIAL Campaigns That Pop Off 🔥
+                  📈 ATL5D Campaigns
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
                   <h2 className="pb-1 text-xl font-bold text-white">
-                    🚀 LIVE FLASH SALE: Get Those Doors Bustin' Down! 💥
+                    📈 ATL5D UGC (User Generated Content)
                   </h2>
-                  Need instant foot traffic? We'll set up a live event, blast it on social with paid ads, and even get a local influencer to host. Watch the magic happen! ✨
+                  <p>
+                    🚀 Instead of paying for a traditional marketing campaign, we challenge Atlanta residents to create their own UGC and promote it in the #challenge <a href="https://discord.com/channels/1244450286337003520/1244529834718265364" target="_blank" rel="noopener noreferrer">Discord</a> channel to earn money with the most viral reel. 
+                  </p>
+                  
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
-                    🚀 BRB, Gotta Try This AR Filter 😎
+                    📈 ATL5D Challenge
                   </h2>
-                  We'll cook up some fire branded AR effects for your dispo on TikTok, Insta, and Snapchat – kinda like this TikTok <a href="https://www.tiktok.com/t/ZP8jMCuwx/" target="_blank" rel="noopener noreferrer">ZAVIEW</a> (they do dispo reviews). Plus, you get monthly deets on how they're doin'. 📊
+                  <p>
+                    🚀 Atlanta residents vote on the winner using ATL5D <a href="https://poll.atl5d.com" target="_blank" rel="noopener noreferrer">Poll</a> 
+                  </p>
+                  
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
-                    🚀 ZAD PACK: Your Merch Just Got an Upgrade 🚀
+                    📈 ATL5D Boosts
                   </h2>
-                  Turn your dispo products into tradable digital ZAD (ZA AD) PACKS – they're like branded NFTs that unlock the actual product for FREE. Level up your merch game! 💯
+                  <p>
+                    🚀 We create short fun content for our Tribe on TikTok and boost the post to create an Atlanta viral buzz that generates booking leads. 
+                  </p>
                 </div>
 
                 <h1 className="pt-10 pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
-                  <GoGitPullRequestClosed className="inline align-bottom" /> DISPO.SOCIAL vs. WeedMaps: No Cap 🧢
+                  🎙️ ATL5D TikTok Podcasts & ReelViews
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
                   <h2 className="pb-1 text-xl font-bold text-white">
-                    🔥 Location Accuracy? We Got You. (For Free!) 💅
+                    🎙️ TikTok AR Podcast
                   </h2>
-                  Unlike WeedMaps, who charge a whole $500 just to list your dispo, we're all about that free life! 🤑
+                  <p>
+                    🗣️ We create a branded Podcast Mic for our Tribe that allows business and customers to create a TikTok podcast. Try out the Camp Creek Market Sales <a href="https://www.tiktok.com/effect/Camp-Creek-Sales-3626857215?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">Podcast</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> to create your own!
+                  </p>
+                  
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
-                    🎥 Livestream Shows? Bet. 🎬
+                    🎙️ TikTok AR ReelView
                   </h2>
-                  We're gonna have guests getting progressively more zooted while spilling the tea on their lives, passions, and wildest high stories. You don't wanna miss this chaos. 😂
+                  <p>
+                    No one has time to read black and white reviews anymore and half of them are fake. So we created a TikTok AR ReelView that allows customers to leave a video review that businesses can share on their social media. Try out the 5DTOK RNTals <a href="https://www.tiktok.com/effect/RNTals-1354485651?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">ReelView</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> to create your own!
+                  </p>
+                  
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
-                    ⚡ Flash Sales That Actually Flash 💨
+                    🎙️ TikTok AR Campaign
                   </h2>
-                  Make sure you're following <a href="https://tiktok.com/@zazaw3w" target="_blank" rel="noopener noreferrer">@ZAZAW3W on TikTok</a> and join our social fam <a href="https://a.dispo.social" target="_blank" rel="noopener noreferrer">here</a> to stay in the loop for those blink-and-you'll-miss-'em deals. 👀
+                  <p>
+                    Every TikTok AR Podcast or ReelView comes with monthly analytics report and allows creators or business to reward the top 10 most viral UGC creators with products, services or cash prizes.
+                  </p>
                 </div>
 
                 {/* BUTTON */}
                 <div className="flex justify-center pt-6">
-                  <a href="https://zatree.dispo.social" target="_blank" rel="noopener noreferrer"
+                  <a href="https://tree.atl5d.com" target="_blank" rel="noopener noreferrer"
                     className="flex items-center gap-2 px-6 py-3 text-lg font-bold text-white transition duration-300 bg-green-600 rounded-lg shadow-lg hover:bg-green-700">
-                    <IoSparklesSharp className="text-2xl" /> ZATREE. LFG! ✨
+                    <IoSparklesSharp className="text-2xl" /> 🍑TREE
                   </a>
                 </div>
 
@@ -94,7 +126,7 @@ function About() {
                 <div className="pt-6 text-center">
                   <a href="https://dispo.social" target="_blank" rel="noopener noreferrer"
                     className="leading-5 tracking-wider text-white font-Hublot">
-                    Made with 🫶 by DISPO.SOCIAL <br /> ©2025
+                    Made with 🫶 by BLKLUV.ORG <br /> ©2026
                   </a>
                 </div>
               </div>

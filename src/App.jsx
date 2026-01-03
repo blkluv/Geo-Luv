@@ -95,18 +95,18 @@ function App() {
       <header className="py-1 bg-transparent">
         <div className="container z-50 flex flex-col items-center justify-between px-4 pt-4 mx-auto sm:px-12 sm:flex-row">
           <Link to="https://dispo.social" className="flex items-center mb-4 space-x-3 select-none sm:mb-0">
-            <span className="hidden text-2xl font-bold text-white select-none sm:inline">DISPO.SOCIAL</span>
+            <span className="hidden text-2xl font-bold text-white select-none sm:inline">ATL5D</span>
           </Link>
           <nav className="flex items-center font-Hublot">
             <ul className="flex space-x-2 font-bold text-gray-300 select-none sm:space-x-4">
               <li>
-                <Link to="https://dispo.social.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
+                <Link to="https://atl5d.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
                  🛖 HOME
                 </Link>
               </li>
               <li>
-                <Link to="https://zatv.dispo.social" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
-                 🤳 ZATV
+                <Link to="https://5dtok.com" className="block px-2 py-2 font-bold text-white transition duration-150 ease-in-out sm:px-4 hover:text-gray-300">
+                 5️⃣DTOK
                 </Link>
               </li>
               <li>
@@ -183,8 +183,8 @@ function App() {
                   </Dialog>
                 </DropdownMenu>
               ) : (
-                <Link to="https://zatree.dispo.social" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
-                  🌴 ZATREE
+                <Link to="https://tree.atl5d.com" className="block px-2 py-2 font-bold text-white sm:px-4 login-button">
+                  🍑TREE
                 </Link>
               )}
             </ul>
