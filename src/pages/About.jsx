@@ -16,7 +16,7 @@ function About() {
                 </h1>
                 <div className="pt-4 pb-4 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
                   <p>
-                    ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer">BLKLUV.ORG</a>, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
+                    ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">BLKLUV.ORG</a>, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
                   </p>
                   <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
                     ATL5D is built on the ethos of empowering our Tribe with financial inclusion, and story telling cultural celebration. We believe in creating a digital space where every voice is heard, every talent is recognized, and every business has the opportunity to thrive.
@@ -25,7 +25,7 @@ function About() {
                     ATL5D solved the problem of unfunded creators and underserved businesses needing on average $100k to launch a digital presence online to avoid only 2% of their social media content being seen and not having the budget to run paid ads or hire a CMO to manage their digital marketing.
                   </p>
                   <p className="pt-2 text-lg leading-relaxed text-left text-gray-300 font-Hublot">
-                    ATL5D creators content and leverages their social media channels to promote our Tribe businesses, and businesses only pay for verified leads or bookings. The creator of ATL5D <a href="https://linkedin.com/in/hahzterry" target="_blank" rel="noopener noreferrer">The Wizard of Hahz</a> acts as a fractional CMO for Camp Creek Market <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> subscribers, and is available for hire to consult Atlanta businesses looking to launch their digital presence.
+                    ATL5D creators content and leverages their social media channels to promote our Tribe businesses, and businesses only pay for verified leads or bookings. The creator of ATL5D <a href="https://linkedin.com/in/hahzterry" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">The Wizard of Hahz</a> acts as a fractional CMO for Camp Creek Market <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> subscribers, and is available for hire to consult Atlanta businesses looking to launch their digital presence.
                   </p>
                 </div>
 
@@ -37,42 +37,42 @@ function About() {
                     5️⃣DTOK
                   </h2>
                   <p>
-                    Is the new TikTok-like social media app, the difference is that <a href="https://5dtok.com" target="_blank" rel="noopener noreferrer">5DTOK</a> has no algorithms limiting your content visibility like TikTok, IG etc. or AI policing your content. 💸 Fans can tip content creators directly with Zaps in the form of Bitcoin sats.
+                    Is the new TikTok-like social media app, the difference is that <a href="https://5dtok.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">5DTOK</a> has no algorithms limiting your content visibility like TikTok, IG etc. or AI policing your content. 💸 Fans can tip content creators directly with Zaps in the form of Bitcoin sats.
                   </p>
                   
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     🅰️TL5D 🛍️SHOP
                   </h2>
                   <p>
-                    Is the TikTok-like <a href="https://shop.atl5d.com" target="_blank" rel="noopener noreferrer">Shop</a> for Atlanta that pays in Bitcoin Sats. 💸 $0 middleman fees, $0 monthly fees and promote your products in the Camp Creek Market <a href="https://discord.gg/p6xd9CErYy" target="_blank" rel="noopener noreferrer"> Discord</a> for free.
+                    Is the TikTok-like <a href="https://shop.atl5d.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Shop</a> for Atlanta that pays in Bitcoin Sats. 💸 $0 middleman fees, $0 monthly fees and promote your products in the Camp Creek Market <a href="https://discord.gg/p6xd9CErYy" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300"> Discord</a> for free.
                   </p>
                   
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     🅰️TL5D 🍑TREE
                   </h2>
                   <p>
-                    Is the Linktree-like <a href="https://tree.atl5d.com" target="_blank" rel="noopener noreferrer">Tree</a> for boosting Atlanta creators and businesses bookings and sales with ZERO upfront fees. 💸 Turn your service booking to a livestream reality show in the #livestream-booking <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer"> Discord</a> and generate new business from listeners.
+                    Is the Linktree-like <a href="https://tree.atl5d.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Tree</a> for boosting Atlanta creators and businesses bookings and sales with ZERO upfront fees. 💸 Turn your service booking to a livestream reality show in the #livestream-booking <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300"> Discord</a> and generate new business from listeners.
                   </p>
                   
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     🅰️TL5D ⚡️ZSTREAM
                   </h2>
                   <p>
-                    Is the Twitch-like <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer">Zstream</a> for Atlanta creators and businesses to monetize their livestreams with Bitcoin Sats tips. 💸 No middleman fees, no monthly fees, and promote your livestream in <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer"> Discord</a>. Host a Zstream promoting an Atlanta business. 
+                    Is the Twitch-like <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Zstream</a> for Atlanta creators and businesses to monetize their livestreams with Bitcoin Sats tips. 💸 No middleman fees, no monthly fees, and promote your livestream in <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300"> Discord</a>. Host a Zstream promoting an Atlanta business. 
                   </p>
 
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     🅰️TL5D 🎤MIC
                   </h2>
                   <p>
-                    Leave <a href="https://mic.atl5d.com" target="_blank" rel="noopener noreferrer">Mic</a> review voicemail about creators and businesses to earn Bitcoin Sats. 
+                    Leave <a href="https://mic.atl5d.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Mic</a> review voicemail about creators and businesses to earn Bitcoin Sats. 
                   </p>
 
                   <h2 className="pt-4 pb-2 text-xl font-bold text-white">
                     🅰️TL5D 🌌CLUB
                   </h2>
                   <p>
-                    Join the ATL5D Metaverse <a href="https://www.spatial.io/s/ATL5D-662eb8858ef79a2eef2b8193?share=9164371680450447654" target="_blank" rel="noopener noreferrer">Club</a> to network with Atlanta creators and businesses in VR via spatial.io. 
+                    Join the ATL5D Metaverse <a href="https://www.spatial.io/s/ATL5D-662eb8858ef79a2eef2b8193?share=9164371680450447654" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Club</a> to network with Atlanta creators and businesses in VR via spatial.io. 
                   </p>
                 </div>
                 
@@ -84,14 +84,14 @@ function About() {
                     📈 ATL5D UGC (User Generated Content)
                   </h2>
                   <p>
-                    🚀 Instead of paying for a traditional marketing campaign, we challenge Atlanta residents to create their own UGC and promote it in the #challenge <a href="https://discord.com/channels/1244450286337003520/1244529834718265364" target="_blank" rel="noopener noreferrer">Discord</a> channel to earn money with the most viral reel. 
+                    🚀 Instead of paying for a traditional marketing campaign, we challenge Atlanta residents to create their own UGC and promote it in the #challenge <a href="https://discord.com/channels/1244450286337003520/1244529834718265364" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> channel to earn money with the most viral reel. 
                   </p>
                   
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
                     📈 ATL5D Challenge
                   </h2>
                   <p>
-                    🚀 Atlanta residents vote on the winner using ATL5D <a href="https://poll.atl5d.com" target="_blank" rel="noopener noreferrer">Poll</a> 
+                    🚀 Atlanta residents vote on the winner using ATL5D <a href="https://poll.atl5d.com" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Poll</a> 
                   </p>
                   
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
@@ -110,14 +110,14 @@ function About() {
                     🎙️ TikTok AR Podcast
                   </h2>
                   <p>
-                    🗣️ We create a branded Podcast Mic for our Tribe that allows business and customers to create a TikTok podcast. Try out the Camp Creek Market Sales <a href="https://www.tiktok.com/effect/Camp-Creek-Sales-3626857215?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">Podcast</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> to create your own!
+                    🗣️ We create a branded Podcast Mic for our Tribe that allows business and customers to create a TikTok podcast. Try out the Camp Creek Market Sales <a href="https://www.tiktok.com/effect/Camp-Creek-Sales-3626857215?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Podcast</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> to create your own!
                   </p>
                   
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
                     🎙️ TikTok AR ReelView
                   </h2>
                   <p>
-                    No one has time to read black and white reviews anymore and half of them are fake. So we created a TikTok AR ReelView that allows customers to leave a video review that businesses can share on their social media. Try out the 5DTOK RNTals <a href="https://www.tiktok.com/effect/RNTals-1354485651?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">ReelView</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer">Discord</a> to create your own!
+                    No one has time to read black and white reviews anymore and half of them are fake. So we created a TikTok AR ReelView that allows customers to leave a video review that businesses can share on their social media. Try out the 5DTOK RNTals <a href="https://www.tiktok.com/effect/RNTals-1354485651?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">ReelView</a>. Subscribe to <a href="https://discord.com/channels/1244450286337003520/shop" target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-400 transition-colors hover:text-yellow-300">Discord</a> to create your own!
                   </p>
                   
                   <h2 className="pt-4 pb-1 text-xl font-bold text-white">
@@ -131,7 +131,7 @@ function About() {
                 {/* BUTTON */}
                 <div className="flex justify-center pt-6">
                   <a href="https://tree.atl5d.com" target="_blank" rel="noopener noreferrer"
-                    className="flex items-center gap-2 px-6 py-3 text-lg font-bold text-white transition duration-300 bg-green-600 rounded-lg shadow-lg hover:bg-green-700">
+                    className="flex items-center gap-2 px-6 py-3 text-lg font-bold text-white transition duration-300 rounded-lg shadow-lg bg-gradient-to-r from-yellow-500 to-yellow-600 hover:from-yellow-600 hover:to-yellow-700">
                     <IoSparklesSharp className="text-2xl" /> 🍑TREE
                   </a>
                 </div>
