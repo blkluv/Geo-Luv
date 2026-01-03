@@ -60,6 +60,20 @@ function About() {
                   <p>
                     Is the Twitch-like <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer">Zstream</a> for Atlanta creators and businesses to monetize their livestreams with Bitcoin Sats tips. 💸 No middleman fees, no monthly fees, and promote your livestream in <a href="https://discord.com/channels/1244450286337003520/1456391467814879438" target="_blank" rel="noopener noreferrer"> Discord</a>. Host a Zstream promoting an Atlanta business. 
                   </p>
+
+                  <h2 className="pt-4 pb-2 text-xl font-bold text-white">
+                    🅰️TL5D 🎤MIC
+                  </h2>
+                  <p>
+                    Leave <a href="https://mic.atl5d.com" target="_blank" rel="noopener noreferrer">Mic</a> review voicemail about creators and businesses to earn Bitcoin Sats. 
+                  </p>
+
+                  <h2 className="pt-4 pb-2 text-xl font-bold text-white">
+                    🅰️TL5D 🌌CLUB
+                  </h2>
+                  <p>
+                    Join the ATL5D Metaverse <a href="https://www.spatial.io/s/ATL5D-662eb8858ef79a2eef2b8193?share=9164371680450447654" target="_blank" rel="noopener noreferrer">Club</a> to network with Atlanta creators and businesses in VR via spatial.io. 
+                  </p>
                 </div>
                 
                 <h1 className="pt-10 pb-2 text-4xl font-bold leading-tight text-left text-white font-Mona">
