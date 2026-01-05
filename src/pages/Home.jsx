@@ -40,7 +40,7 @@ function Home() {
                   {/* Social Links Row */}
                   <div className="flex flex-wrap justify-center gap-4">
                     <span className="flex items-center gap-1">
-                      📲 <a href="https://tiktok.com/@5dtok" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@5DTOK</a>
+                      📲 <a href="https://tiktok.com/@atl5d" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@ATL5D</a>
                     </span>
                     <span className="flex items-center gap-1">
                       📲 <a href="https://tiktok.com/@campcreekmarket" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@CAMPCREEKMARKET</a>
