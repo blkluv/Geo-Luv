@@ -23,10 +23,10 @@ function Home() {
               {/* Main content / Hero section */}
               <div className="HomeContainer">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
-                 🅰️ ATLANTA DIGITAL 
+                  🅰️ ATLANTA DIGITAL
                 </h1>
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
-                 🅰️ ATLANTA DIGITAL 
+                  🅰️ ATLANTA DIGITAL
                   <span className="custom-text-shadow">
                     <TypingAnimation text="ATL5D" />
                   </span>
@@ -34,42 +34,48 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
-                
-                <div className="my-4 space-y-2">
-                  {/* Social Links Row */}
-                  <div className="flex flex-wrap justify-center gap-4">
-                    <span className="flex items-center gap-1">
-                      📲 <a href="https://tiktok.com/@5dtok" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@5DTOK</a>
-                    </span>
-                    <span className="flex items-center gap-1">
-                      📲 <a href="https://tiktok.com/@campcreekmarket" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@CAMPCREEKMARKET</a>
-                    </span>
-                    <span className="flex items-center gap-1">
-                      🏦 <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">BLKLUV.ORG</a>
-                    </span>
-                  </div>
+                  ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with fewer fees and limits. Subscribe to ATL5D's TikTok or join the <a href="https://discord.gg/2cY553Fj8Y" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">Camp Creek Discord</a> to promote your business on our social channels.
+                  
+                  <div className="my-4 space-y-2">
+                    {/* Social Links Row */}
+                    <div className="flex flex-wrap justify-center gap-4">
+                      <span className="flex items-center gap-1">
+                        📲 <a href="https://tiktok.com/@5dtok" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@5DTOK</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        📲 <a href="https://tiktok.com/@campcreekmarket" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@CAMPCREEKMARKET</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        💬 <a href="https://discord.gg/2cY553Fj8Y" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">Camp Creek Discord</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        💬 <a href="https://discord.gg/EK4wGvms3u" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">The Beltline Discord</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        🏦 <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">BLKLUV.ORG</a>
+                      </span>
+                    </div>
 
-                  {/* Platform Links Row */}
-                  <div className="flex flex-wrap justify-center gap-4">
-                    <span className="flex items-center gap-1">
-                      🛍️ <a href="https://shop.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">SHOP.</a>
-                    </span>
-                    <span className="flex items-center gap-1">
-                      ⚡️ <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">ZSTREAM.</a>
-                    </span>
-                    <span className="flex items-center gap-1">
-                      📊 <a href="https://poll.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">POLL.</a>
-                    </span>
-                  </div>
+                    {/* Platform Links Row */}
+                    <div className="flex flex-wrap justify-center gap-4">
+                      <span className="flex items-center gap-1">
+                        🛍️ <a href="https://shop.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">SHOP.</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        ⚡️ <a href="https://zstream.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">ZSTREAM.</a>
+                      </span>
+                      <span className="flex items-center gap-1">
+                        📊 <a href="https://poll.atl5d.com" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">POLL.</a>
+                      </span>
+                    </div>
 
-                  {/* Content Links Row */}
-                  <div className="flex flex-wrap justify-center gap-4">
-                    <span className="flex items-center gap-1">
-                      🪩 <a href="https://www.spatial.io/s/ATL5D-662eb8858ef79a2eef2b8193?share=9164371680450447654" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">CLUB ATL5D</a>
-                    </span>
+                    {/* Content Links Row */}
+                    <div className="flex flex-wrap justify-center gap-4">
+                      <span className="flex items-center gap-1">
+                        🪩 <a href="https://www.spatial.io/s/ATL5D-662eb8858ef79a2eef2b8193?share=9164371680450447654" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">CLUB ATL5D</a>
+                      </span>
+                    </div>
                   </div>
-                </div>
                 </div>
                 
                 {/* Discord Button */}
