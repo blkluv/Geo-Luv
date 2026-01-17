@@ -34,7 +34,7 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
-                  ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with fewer fees and limits. Subscribe to ATL5D's TikTok or join the <a href="https://discord.gg/2cY553Fj8Y" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">Camp Creek Discord</a> to promote your business on our social channels.
+                  ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with fewer fees and limits. Subscribe to ATL5D's TikTok or subscribe to the <a href="https://discord.gg/2cY553Fj8Y" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">Camp Creek Discord</a> to promote your business on our social channels.
                   
                   <div className="my-4 space-y-2">
                     {/* Social Links Row */}
