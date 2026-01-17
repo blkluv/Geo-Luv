@@ -23,10 +23,17 @@ function Home() {
               {/* Main content / Hero section */}
               <div className="HomeContainer">
                 <h1 className="hidden md:block text-center pb-1 lg:pl-6 pointer-events-none select-none customFont text-7xl text-gray-100 leading-[1.1] max-w-[55rem] fade-in1">
+<<<<<<< HEAD
                   🅰️ ATLANTA DIGITAL
                 </h1>
                 <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
                   🅰️ ATLANTA DIGITAL
+=======
+                 🅰️TLANTA DIGITAL 
+                </h1>
+                <h1 className="md:hidden text-center pb-4 lg:pl-6 pointer-events-none select-none px-4 customFont text-5xl text-gray-100 leading-[1.1] max-w-[53rem]">
+                 🅰️TLANTA DIGITAL 
+>>>>>>> 5f6ee5f62ef779c47a3df79e5c5f3be2d4eb36de
                   <span className="custom-text-shadow">
                     <TypingAnimation text="ATL5D" />
                   </span>
@@ -34,6 +41,7 @@ function Home() {
 
                 {/* Display on larger screens */}
                 <div className="pb-4 select-none text-center font-Hublot text-gray-300 text-xl max-w-[33rem] leading-20 pt-4 fade-in2">
+<<<<<<< HEAD
                   ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with fewer fees and limits. Subscribe to ATL5D's TikTok or join the <a href="https://discord.gg/2cY553Fj8Y" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">Camp Creek Discord</a> to promote your business on our social channels.
                   
                   <div className="my-4 space-y-2">
@@ -55,6 +63,23 @@ function Home() {
                         🏦 <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">BLKLUV.ORG</a>
                       </span>
                     </div>
+=======
+                ATL5D is the digital-economy blueprint for uniting Atlanta's creators, businesses, and neighborhoods — powered by BLKLUV.org, the Cash App with less fees and limits. We promote our Tribe across our social channels, and businesses only pay for verified leads or bookings.
+                
+                <div className="my-4 space-y-2">
+                  {/* Social Links Row */}
+                  <div className="flex flex-wrap justify-center gap-4">
+                    <span className="flex items-center gap-1">
+                      📲 <a href="https://tiktok.com/@atl5d" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@ATL5D</a>
+                    </span>
+                    <span className="flex items-center gap-1">
+                      📲 <a href="https://tiktok.com/@campcreekmarket" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">@CAMPCREEKMARKET</a>
+                    </span>
+                    <span className="flex items-center gap-1">
+                      🏦 <a href="https://blkluv.org" target="_blank" rel="noopener noreferrer" className="text-blue-300 transition-colors hover:text-blue-200">BLKLUV.ORG</a>
+                    </span>
+                  </div>
+>>>>>>> 5f6ee5f62ef779c47a3df79e5c5f3be2d4eb36de
 
                     {/* Platform Links Row */}
                     <div className="flex flex-wrap justify-center gap-4">
